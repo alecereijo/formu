@@ -1,0 +1,30 @@
+body {
+    background-color: #fff;
+    color: black;
+    font: 1em / 1.4 Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding: 1em;
+    margin: 0;
+    background:   url(../img/fondo.jpg) center no-repeat ;
+    text-align: center;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  li{
+      margin-bottom: 10px;
+      text-decoration: none;
+      display: flex;
+      margin-left: 500px;
+      cursor: pointer;
+  }
+
+  li:hover{
+    border-color: blueviolet;
+}
+
+.container{
+    
+  
+}
